@@ -1,0 +1,15 @@
+{
+  "name": "proxy-detector",
+  "version": "0.1.0",
+  "description": "O.S. proxy settings detection",
+  "author": "William Calderipe <wcalderipe@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
